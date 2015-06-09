@@ -1,0 +1,18 @@
+parent:
+    github:         ahnames/hidev-config
+
+package:
+    name:           hipanel-theme-adminlte
+    namespace:      ahnames\themes\adminlte
+    title:          AHnames AdminLte Theme for HiPanel
+    type:           yii2-extension
+    keywords:       ahnames, adminlte, theme, hipanel, plugin
+    year:           2014
+
+composer.json:
+    require:
+        hiqdev/hipanel-theme-adminlte:  "*@dev"
+    extra:
+        asset-installer-paths:
+            npm-asset-library:          vendor/npm
+            bower-asset-library:        vendor/bower
