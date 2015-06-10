@@ -11,7 +11,7 @@ namespace ahnames\themes\adminlte;
  * Class for this theme.
  * It's empty cause inheritance does all the tricks.
  */
-class AdminLteTheme extends \hipanel\themes\adminlte\Theme
+class AdminLteTheme extends \hipanel\themes\adminlte\AdminLteTheme
 {
     public $label = 'AHnames AdminLte v2';
 }

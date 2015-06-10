@@ -14,7 +14,7 @@ class Plugin extends \hiqdev\pluginmanager\Plugin
      */
     protected $_items = [
         'themes' => [
-            'adminlte' => [
+            'ahnames-adminlte' => [
                 'class' => 'ahnames\themes\adminlte\AdminLteTheme',
             ],
         ],
