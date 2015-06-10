@@ -11,6 +11,7 @@ package:
 
 composer.json:
     require:
+        ahnames/yii2-asset-ahnames:     "*@dev"
         hiqdev/hipanel-theme-adminlte:  "*@dev"
     extra:
         asset-installer-paths:
