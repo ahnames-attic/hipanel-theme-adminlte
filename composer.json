@@ -25,8 +25,8 @@
         }
     ],
     "require": {
-        "ahnames/yii2-asset-ahnames": "*@dev",
-        "hiqdev/hipanel-theme-adminlte": "*@dev"
+        "hiqdev/hipanel-theme-adminlte": "*@dev",
+        "ahnames/yii2-asset-ahnames": "*@dev"
     },
     "autoload": {
         "psr-4": {
