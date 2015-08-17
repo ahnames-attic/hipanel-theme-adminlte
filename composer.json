@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ahnames\\themes\\adminlte\\": ""
+            "ahnames\\themes\\adminlte\\": "src"
         }
     },
     "extra": {
