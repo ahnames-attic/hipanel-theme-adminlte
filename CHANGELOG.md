@@ -3,7 +3,7 @@ ahnames/hipanel-theme-adminlte changelog
 
 ## Under development
 
-- Changed: redone with new features
+- Changed: redone with all new features
 - Added basics
 - Inited
 

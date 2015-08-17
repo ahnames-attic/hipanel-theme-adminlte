@@ -3,7 +3,8 @@ ahnames/hipanel-theme-adminlte commits history
 
 ## Under development
 
-- Changed: redone with new features
+- Changed: redone with all new features
+    - 066fb3f 2015-08-17 php-cs-fixed (sol@hiqdev.com)
     - 4324e28 2015-08-17 rehideved (sol@hiqdev.com)
     - f171431 2015-08-17 moved to src (sol@hiqdev.com)
 - Added basics
