@@ -3,6 +3,8 @@ ahnames/hipanel-theme-adminlte commits history
 
 ## Under development
 
+- Fixed logo css
+    - e34a93a 2015-08-19 fixed css for logo position (sol@hiqdev.com)
 - Changed: redone with all new features
     - 066fb3f 2015-08-17 php-cs-fixed (sol@hiqdev.com)
     - 4324e28 2015-08-17 rehideved (sol@hiqdev.com)
