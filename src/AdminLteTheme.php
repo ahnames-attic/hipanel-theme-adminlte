@@ -20,7 +20,6 @@ class AdminLteTheme extends \hipanel\themes\adminlte\AdminLteTheme
 
     public $assets = [
         'ahnames\themes\adminlte\AhnamesAsset',
-        'hipanel\frontend\assets\AppAsset',
         'hiqdev\assets\adminlte\AdminLteAsset',
     ];
 }
