@@ -3,6 +3,8 @@ ahnames/hipanel-theme-adminlte commits history
 
 ## Under development
 
+- Removed dependency on hipanel\frontend\assets\AppAsset
+    - 0ec385e 2015-08-21 - depend on hipanel\frontend\assets\AppAsset (sol@hiqdev.com)
 - Fixed logo css
     - e34a93a 2015-08-19 fixed css for logo position (sol@hiqdev.com)
 - Changed: redone with all new features
